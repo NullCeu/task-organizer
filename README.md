@@ -34,7 +34,7 @@ Um gerenciador de tarefas poderoso e elegante para linha de comando, desenvolvid
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/taskcli.git
+git clone https://github.com/NullCeu/task-organizer
 cd taskcli
 
 # Compile o projeto
